@@ -4,7 +4,7 @@ Hi there! 👋 I'm Jonathan Tembwe
 I'm a passionate Computer Science Teacher who loves working on python related projects. I enjoy learning new technologies and contributing to meaningful projects.
 
 🔧 Tech Stack
-- 💻 Languages: Android and Python [django, tkinter and streamlit]
+- 💻 Languages: Android and Python
 - 🛠️ Frameworks & Libraries: Django, Streamlit, Tkinter and pytorch
 - 🗄️ Databases: MySQL
 - ☁️ Cloud & DevOps: interested in AWS and Azure
